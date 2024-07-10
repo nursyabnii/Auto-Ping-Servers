@@ -3,4 +3,4 @@
 ## How To Use
 
 - npm install ping
-- node pingServers.js
+- node pingServers.js or npm run-script ping
