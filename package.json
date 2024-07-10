@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "node pingServers.js"
+    "ping": "node pingServers.js"
   },
   "keywords": [],
   "author": "",
